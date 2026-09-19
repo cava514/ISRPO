@@ -1,0 +1,5 @@
+﻿[2026-09-11 09:48:18Z] Operation=OutputtingAnArrayOperation, Elapsed=0 ms
+[2026-09-11 09:48:18Z] Operation=ReadsDataOperation, Elapsed=5 ms
+[2026-09-11 09:48:18Z] Operation=DecodingOperation, Elapsed=5 ms
+[2026-09-11 09:48:18Z] Operation=OutputDataOperation, Elapsed=8 ms
+[2026-09-11 09:48:18Z] Operation=EndOperation, Elapsed=9 ms

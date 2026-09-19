@@ -1,0 +1,17 @@
+C:\Temp\ispp45\LabWork2\LabWork2\bin\Debug\net10.0\LabWork2.exe
+C:\Temp\ispp45\LabWork2\LabWork2\bin\Debug\net10.0\LabWork2.deps.json
+C:\Temp\ispp45\LabWork2\LabWork2\bin\Debug\net10.0\LabWork2.runtimeconfig.json
+C:\Temp\ispp45\LabWork2\LabWork2\bin\Debug\net10.0\LabWork2.dll
+C:\Temp\ispp45\LabWork2\LabWork2\bin\Debug\net10.0\LabWork2.pdb
+C:\Temp\ispp45\LabWork2\LabWork2\bin\Debug\net10.0\NLog.dll
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.csproj.AssemblyReference.cache
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.AssemblyInfoInputs.cache
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.AssemblyInfo.cs
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.csproj.CoreCompileInputs.cache
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.csproj.Up2Date
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.dll
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\refint\LabWork2.dll
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.pdb
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\LabWork2.genruntimeconfig.cache
+C:\Temp\ispp45\LabWork2\LabWork2\obj\Debug\net10.0\ref\LabWork2.dll
